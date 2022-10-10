@@ -1,6 +1,6 @@
 # Beanstalk-Audits
 
-## Arweve Audit Reports:
+## Arweave Audit Reports
 
 09/23/22 BIP-24 Halborn Report: https://arweave.net/9CX_DCDceBugfmpHhxlL85gkCn-4Yu0eQQQsZ9ckY8w
 
