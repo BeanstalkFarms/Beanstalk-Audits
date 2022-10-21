@@ -1,4 +1,4 @@
-# Beanstalk-Audits
+# Beanstalk Audits
 
 See the [Audits](https://docs.bean.money/protocol-resources/audits) page in the Farmers' Almanac for more info on audits in the Beanstalk ecosystem.
 
