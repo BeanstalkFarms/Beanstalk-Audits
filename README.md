@@ -4,7 +4,7 @@ See the [Audits](https://docs.bean.money/protocol-resources/audits) page in the 
 
 ## Arweave Audit Reports
 
-* 10/28/22: [Pod Market V2 Halborn Report](https://arweave.net/eLFWy47yKtbwnhMgmtdbdcRbxwaXPJ4BB0LiEzx8hZg) (BIP-28)
+* 11/04/22: [Pod Market V2 Halborn Report](https://arweave.net/4GwrRBM7K-0SvyryHVH1oQDpkcbwnAm3up45bYf_RYA) (BIP-29)
 * 10/19/22: [Beanstalk UI WebApp Pentest Halborn Report](https://arweave.net/o3PO8IqR0EFtkjmgATMXbMkMaZL3AcWYnHYq7XT8U3Q)
 * 09/23/22: [BIP-24 Halborn Report](https://arweave.net/9CX_DCDceBugfmpHhxlL85gkCn-4Yu0eQQQsZ9ckY8w)
 * 07/22/22: [Trail of Bits Fix Review](https://arweave.net/5I9RndHbz5X1x785-jQ3IeVcv-LuB-EmpKCsJGa9OuA)
