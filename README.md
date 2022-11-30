@@ -1,6 +1,6 @@
 # Beanstalk Audits
 
-See the [Audits](https://docs.bean.money/protocol/audits) page in the Farmers' Almanac for more info on audits in the Beanstalk ecosystem.
+See the [Audits](https://docs.bean.money/almanac/protocol/audits) page in the Farmers' Almanac for more info on audits in the Beanstalk ecosystem.
 
 ## Beanstalk Audit Reports on Arweave
 
