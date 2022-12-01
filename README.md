@@ -4,7 +4,7 @@ See the [Audits](https://docs.bean.money/almanac/protocol/audits) page in the Fa
 
 ## Beanstalk Audit Reports on Arweave
 
-* 11/24/22: [BIP-30 Halborn Report](https://bean.money/11-24-22-bip-30-halborn-report)
+* 12/01/22: [BIP-30 Halborn Report](https://bean.money/11-24-22-bip-30-halborn-report)
 * 11/04/22: [BIP-29 Halborn Report](https://bean.money/11-04-22-bip-29-halborn-report)
 * 09/23/22: [BIP-24 Halborn Report](https://bean.money/09-23-22-bip-24-halborn-report)
 * 07/22/22: [Trail of Bits Fix Review](https://bean.money/07-22-22-tob-fix-review)
