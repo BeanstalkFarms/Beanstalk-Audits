@@ -10,6 +10,7 @@ See the [Audits](https://docs.bean.money/almanac/protocol/audits) page in the Fa
 * 07/22/22: [Trail of Bits Fix Review](https://bean.money/07-22-22-tob-fix-review)
 * 07/22/22: [Trail of Bits Report](https://bean.money/07-22-22-tob-report)
 * 07/13/22: [Halborn Report](https://bean.money/07-13-22-halborn-report)
+* 04/02/22: [Omniscia Report](https://bean.money/04-02-22-omniscia-report)
 
 ## Ecosystem Audit Reports on Arweave
 
