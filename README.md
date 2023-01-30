@@ -15,7 +15,7 @@ See the [Audits](https://docs.bean.money/almanac/protocol/audits) page in the Fa
 
 ## Ecosystem Audit Reports on Arweave
 
-* 11/16/22: [Root Token Halborn Report](https://bean.money/11-16-22-root-token-halborn-report)
-* 11/15/22: [Pipeline Halborn Report](https://bean.money/11-15-22-pipeline-halborn-report)
+* 11/16/22: [Root Token Halborn Report](https://bean.money/11-16-22-root-token-halborn-report) @ [808cff4](https://github.com/BeanstalkFarms/Beanstalk/tree/808cff496f8161c8d94f7a35e99dbf3ad77142f0)
+* 11/15/22: [Pipeline Halborn Report](https://bean.money/11-15-22-pipeline-halborn-report) @ [256d831](https://github.com/BeanstalkFarms/Beanstalk/tree/256d83162687eed4d589bbf24e0a61a590c11326)
 * 11/15/22: [Paradox Halborn Report](https://bean.money/11-15-22-paradox-halborn-report)
-* 10/19/22: [Beanstalk UI Halborn Report](https://bean.money/10-19-22-beanstalk-ui-halborn-report)
+* 10/19/22: [Beanstalk UI Halborn Report](https://bean.money/10-19-22-beanstalk-ui-halborn-report) @ [b5305c5](https://github.com/BeanstalkFarms/Beanstalk-UI/tree/b5305c5bd7e028bac9abd8e9129a85fd232c3e5e)
