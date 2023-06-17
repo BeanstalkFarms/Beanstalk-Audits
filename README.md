@@ -16,8 +16,8 @@ See the [Audits](https://docs.bean.money/almanac/protocol/audits) page in the Fa
 
 ## Ecosystem Audit Reports on Arweave
 
-* 06/16/23: [Basin Cyfrin Report](https://bean.money/06-16/23-basin-cyfrin-report) @ [e5441fc](https://github.com/BeanstalkFarms/Basin/tree/e5441fc78f0fd4b77a898812d0fd22cb43a0af55)
-* 06/16/23: [Basin Halborn Report](https://bean.money/06-16/23-basin-halborn-report) @ [e5441fc](https://github.com/BeanstalkFarms/Basin/tree/e5441fc78f0fd4b77a898812d0fd22cb43a0af55)
+* 06/16/23: [Basin Cyfrin Report](https://bean.money/06-16-23-basin-cyfrin-report) @ [e5441fc](https://github.com/BeanstalkFarms/Basin/tree/e5441fc78f0fd4b77a898812d0fd22cb43a0af55)
+* 06/16/23: [Basin Halborn Report](https://bean.money/06-16-23-basin-halborn-report) @ [e5441fc](https://github.com/BeanstalkFarms/Basin/tree/e5441fc78f0fd4b77a898812d0fd22cb43a0af55)
 * 11/16/22: [Root Token Halborn Report](https://bean.money/11-16-22-root-token-halborn-report) @ [808cff4](https://github.com/BeanstalkFarms/Beanstalk/tree/808cff496f8161c8d94f7a35e99dbf3ad77142f0)
 * 11/15/22: [Pipeline Halborn Report](https://bean.money/11-15-22-pipeline-halborn-report) @ [256d831](https://github.com/BeanstalkFarms/Beanstalk/tree/256d83162687eed4d589bbf24e0a61a590c11326)
 * 11/15/22: [Paradox Halborn Report](https://bean.money/11-15-22-paradox-halborn-report)
