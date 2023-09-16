@@ -2,7 +2,7 @@
 
 See the [Audits](https://docs.bean.money/almanac/protocol/audits) page in the Farmers' Almanac for more info on audits in the Beanstalk ecosystem.
 
-## Beanstalk Audit Reports on Arweave
+## Beanstalk Reports
 
 * 07/24/23: [BIP-37 Halborn Report](https://bean.money/07-24-23-bip-37-halborn-report) @ [78d7045](https://github.com/BeanstalkFarms/Beanstalk/tree/78d7045a4e6900dfbdc5f1119b202b4f30ff6ab8)
 * 06/30/23: [BIP-36 Halborn Report](https://bean.money/06-30-23-bip-36-halborn-report) @ [24bf3d3](https://github.com/BeanstalkFarms/Beanstalk/tree/24bf3d33355f516648b02780b4b232181afde200)
@@ -16,7 +16,7 @@ See the [Audits](https://docs.bean.money/almanac/protocol/audits) page in the Fa
 * 07/13/22: [Halborn Report](https://bean.money/07-13-22-halborn-report) @ [1447fa2](https://github.com/BeanstalkFarms/Beanstalk/tree/1447fa2c0d42c73345a38edb4f4dad076392f429)
 * 04/02/22: [Omniscia Report](https://bean.money/04-02-22-omniscia-report) @ [ee4720c](https://github.com/BeanstalkFarms/Beanstalk/tree/ee4720cdb449d5b6ff2b789083792c4395628674)
 
-## Ecosystem Audit Reports on Arweave
+## Ecosystem Reports
 
 * 06/16/23: [Basin Cyfrin Report](https://bean.money/06-16-23-basin-cyfrin-report) @ [e5441fc](https://github.com/BeanstalkFarms/Basin/tree/e5441fc78f0fd4b77a898812d0fd22cb43a0af55)
 * 06/16/23: [Basin Halborn Report](https://bean.money/06-16-23-basin-halborn-report) @ [e5441fc](https://github.com/BeanstalkFarms/Basin/tree/e5441fc78f0fd4b77a898812d0fd22cb43a0af55)
