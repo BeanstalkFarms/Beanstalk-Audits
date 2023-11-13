@@ -8,14 +8,14 @@ See the [Audits](https://docs.bean.money/almanac/protocol/audits) page in the Fa
 * 07/24/23: [BIP-37 Halborn Report](https://bean.money/07-24-23-bip-37-halborn-report) @ [78d7045](https://github.com/BeanstalkFarms/Beanstalk/tree/78d7045a4e6900dfbdc5f1119b202b4f30ff6ab8)
 * 06/30/23: [BIP-36 Halborn Report](https://bean.money/06-30-23-bip-36-halborn-report) @ [24bf3d3](https://github.com/BeanstalkFarms/Beanstalk/tree/24bf3d33355f516648b02780b4b232181afde200)
 * 04/18/23: [BIP-34 Halborn Report](https://bean.money/04-18-23-bip-34-halborn-report) @ [f37cb42](https://github.com/BeanstalkFarms/Beanstalk/tree/f37cb42809fb8dfc9a0f2891db1ad96a1b848a4c)
-* 12/13/22: [Halborn Report](https://bean.money/12-13-22-halborn-report) @ [6699e07](https://github.com/BeanstalkFarms/Beanstalk/tree/6699e071626a17283facc67242536037989ecd91)
+* 12/13/22: [Beanstalk Halborn Report #2](https://bean.money/12-13-22-halborn-report) @ [6699e07](https://github.com/BeanstalkFarms/Beanstalk/tree/6699e071626a17283facc67242536037989ecd91)
 * 12/01/22: [BIP-30 Halborn Report](https://bean.money/12-01-22-bip-30-halborn-report) @ [e193bdf](https://github.com/BeanstalkFarms/Beanstalk/tree/e193bdf747e804c13280453f3dbb52ebc797091b)
 * 11/04/22: [BIP-29 Halborn Report](https://bean.money/11-04-22-bip-29-halborn-report) @ [0bdd376](https://github.com/BeanstalkFarms/Beanstalk/tree/0bdd376263b0fe94af84aaf4adb6391b39fa80ab)
 * 09/23/22: [BIP-24 Halborn Report](https://bean.money/09-23-22-bip-24-halborn-report) @ [6699e07](https://github.com/BeanstalkFarms/Beanstalk/tree/6699e071626a17283facc67242536037989ecd91)
-* 07/22/22: [Trail of Bits Fix Review](https://bean.money/07-22-22-tob-fix-review) @ [9422ad6](https://github.com/BeanstalkFarms/Beanstalk/tree/9422ad60cbb4ece7cfb4f0925c4586fb4582e7df)
-* 07/22/22: [Trail of Bits Report](https://bean.money/07-22-22-tob-report) @ [f501c25](https://github.com/BeanstalkFarms/Beanstalk/tree/f501c25eb41e391c35a2926dacca7d9912e700f3)
-* 07/13/22: [Halborn Report](https://bean.money/07-13-22-halborn-report) @ [1447fa2](https://github.com/BeanstalkFarms/Beanstalk/tree/1447fa2c0d42c73345a38edb4f4dad076392f429)
-* 04/02/22: [Omniscia Report](https://bean.money/04-02-22-omniscia-report) @ [ee4720c](https://github.com/BeanstalkFarms/Beanstalk/tree/ee4720cdb449d5b6ff2b789083792c4395628674)
+* 07/22/22: [Beanstalk Trail of Bits Fix Review](https://bean.money/07-22-22-tob-fix-review) @ [9422ad6](https://github.com/BeanstalkFarms/Beanstalk/tree/9422ad60cbb4ece7cfb4f0925c4586fb4582e7df)
+* 07/22/22: [Beanstalk Trail of Bits Report](https://bean.money/07-22-22-tob-report) @ [f501c25](https://github.com/BeanstalkFarms/Beanstalk/tree/f501c25eb41e391c35a2926dacca7d9912e700f3)
+* 07/13/22: [Beanstalk Halborn Report #1](https://bean.money/07-13-22-halborn-report) @ [1447fa2](https://github.com/BeanstalkFarms/Beanstalk/tree/1447fa2c0d42c73345a38edb4f4dad076392f429)
+* 04/02/22: [Beanstalk Omniscia Report](https://bean.money/04-02-22-omniscia-report) @ [ee4720c](https://github.com/BeanstalkFarms/Beanstalk/tree/ee4720cdb449d5b6ff2b789083792c4395628674)
 
 ## Ecosystem Reports
 
