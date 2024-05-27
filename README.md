@@ -4,7 +4,7 @@ See the [Audits](https://docs.bean.money/almanac/protocol/audits) page in the Fa
 
 ## Beanstalk Reports
 
-* 04/06/24: [BIP-42 Codehawks Report](https://bean.money/04-06-24-bip-42-codehawks-report) @ [a365886](https://github.com/Cyfrin/2024-02-Beanstalk-1/tree/a3658861af8f5126224718af494d02352fbb3ea5)
+* 04/06/24: [BIP-45 Codehawks Report](https://bean.money/04-06-24-bip-45-codehawks-report) @ [a365886](https://github.com/Cyfrin/2024-02-Beanstalk-1/tree/a3658861af8f5126224718af494d02352fbb3ea5)
 * 12/05/23: [Seed Gauge Cyfrin Report](https://bean.money/12-05-23-seed-gauge-cyfrin-report) @ [dfb418d](https://github.com/BeanstalkFarms/Beanstalk/tree/dfb418d185cd93eef08168ccaffe9de86bc1f062)
 * 10/13/23: [BIP-38 Cyfrin Report](https://bean.money/10-13-23-bip-38-cyfrin-report) @ [7606673](https://github.com/BeanstalkFarms/Beanstalk/tree/76066733bcddb944b9af8f29acf150c02a5b8437)
 * 09/12/23: [Beanstalk Cyfrin Report](https://bean.money/09-12-23-cyfrin-report) @ [c7a20e5](https://github.com/BeanstalkFarms/Beanstalk/tree/c7a20e56a0a6659c09314a877b440198eff0cd81)
