@@ -4,6 +4,9 @@ See the [Audits](https://docs.bean.money/almanac/protocol/audits) page in the Fa
 
 ## Beanstalk Reports
 
+* 08/09/24: [BIP-50 Codehawks Report](https://bean.money/08-09-24-bip-50-codehawks-report) @ [4e0ad0b](https://github.com/Cyfrin/2024-05-beanstalk-the-finale/tree/4e0ad0b964f74a1b4880114f4dd5b339bc69cd3e)
+* 05/30/24: [BIP-49 Codehawks Report](https://bean.money/05-30-24-bip-49-codehawks-report) @ [0552609](https://github.com/Cyfrin/2024-05-Beanstalk-3/tree/0552609b63f76a69190015b7e2abfded60a30960)
+* 05/04/24: [BIP-48 Codehawks Report](https://bean.money/05-04-24-bip-48-codehawks-report) @ [9b77984](https://github.com/Cyfrin/2024-04-beanstalk-2/tree/9b77984f43a1fd47f5617006502f28b8528962a3)
 * 04/06/24: [BIP-45 Codehawks Report](https://bean.money/04-06-24-bip-45-codehawks-report) @ [a365886](https://github.com/Cyfrin/2024-02-Beanstalk-1/tree/a3658861af8f5126224718af494d02352fbb3ea5)
 * 12/05/23: [Seed Gauge Cyfrin Report](https://bean.money/12-05-23-seed-gauge-cyfrin-report) @ [dfb418d](https://github.com/BeanstalkFarms/Beanstalk/tree/dfb418d185cd93eef08168ccaffe9de86bc1f062)
 * 10/13/23: [BIP-38 Cyfrin Report](https://bean.money/10-13-23-bip-38-cyfrin-report) @ [7606673](https://github.com/BeanstalkFarms/Beanstalk/tree/76066733bcddb944b9af8f29acf150c02a5b8437)
@@ -22,6 +25,7 @@ See the [Audits](https://docs.bean.money/almanac/protocol/audits) page in the Fa
 
 ## Ecosystem Reports
 
+* 05/08/24: [Multi Flow v1.1 Codehawks Report](https://bean.money/05-08-24-multi-flow-codehawks-report) @ [3ad4883](https://github.com/Cyfrin/2024-04-Beanstalk-DIB/tree/3ad488360c9b1fdba3ff846c9343626fd2ee3c73)
 * 10/05/23: [Basin Code4rena Report](https://bean.money/10-05-23-basin-code4rena-report) @ [7e51c02](https://github.com/code-423n4/2023-07-basin/tree/7e51c025d32aff3f2456842c83cda66cda274d11)
 * 06/16/23: [Basin Cyfrin Report](https://bean.money/06-16-23-basin-cyfrin-report) @ [e5441fc](https://github.com/BeanstalkFarms/Basin/tree/e5441fc78f0fd4b77a898812d0fd22cb43a0af55)
 * 06/16/23: [Basin Halborn Report](https://bean.money/06-16-23-basin-halborn-report) @ [e5441fc](https://github.com/BeanstalkFarms/Basin/tree/e5441fc78f0fd4b77a898812d0fd22cb43a0af55)
