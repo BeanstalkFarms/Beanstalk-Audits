@@ -25,6 +25,7 @@ See the [Audits](https://docs.bean.money/almanac/protocol/audits) page in the Fa
 
 ## Ecosystem Reports
 
+* 09/11/24: [Stable 2 + Upgradable Well Code4rena Report](https://code4rena.com/reports/2024-08-basin) @ [7e08ff5](https://github.com/code-423n4/2024-08-basin/tree/7e08ff591df0a2ade7d5618113dda2621cd899bc)
 * 05/08/24: [Multi Flow v1.1 Codehawks Report](https://bean.money/05-08-24-multi-flow-codehawks-report) @ [3ad4883](https://github.com/Cyfrin/2024-04-Beanstalk-DIB/tree/3ad488360c9b1fdba3ff846c9343626fd2ee3c73)
 * 10/05/23: [Basin Code4rena Report](https://bean.money/10-05-23-basin-code4rena-report) @ [7e51c02](https://github.com/code-423n4/2023-07-basin/tree/7e51c025d32aff3f2456842c83cda66cda274d11)
 * 06/16/23: [Basin Cyfrin Report](https://bean.money/06-16-23-basin-cyfrin-report) @ [e5441fc](https://github.com/BeanstalkFarms/Basin/tree/e5441fc78f0fd4b77a898812d0fd22cb43a0af55)
